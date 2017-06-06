@@ -1,0 +1,24 @@
+{
+  "name": "@types/tinytar",
+  "version": "0.1.0",
+  "description": "Typescript definitions for tinytar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrsp/types-tinytar.git"
+  },
+  "keywords": [
+    "tinytar",
+    "tar",
+    "typescript"
+  ],
+  "author": "Lucas R. San Pedro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lrsp/types-tinytar/issues"
+  },
+  "homepage": "https://github.com/lrsp/types-tinytar#readme"
+}
